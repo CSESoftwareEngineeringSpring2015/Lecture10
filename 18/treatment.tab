@@ -6,7 +6,7 @@ valine	0.16	0.02
 threonine	0.25	0.02
 leucine	0.26	0.01
 isoleucine	0.09	0.02
-aspartic	0.00	0.68
+aspartic acid	0.68	0.23
 lysine	0.31	0.01
 methionine	0.11	0.00
 histidine	0.03	0.00
@@ -16,4 +16,4 @@ tyrosine	0.05	0.00
 cystine	0.05	0.00
 tryptophan	0.03	0.01
 glutamine	1.29	0.16
-glutamic	0.00	17.15
+glutamic acid	17.15	1.24
